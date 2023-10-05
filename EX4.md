@@ -11,7 +11,7 @@
 6. Display the employee table
 
 ### Program:
-
+```
 SQL> CREATE TABLE es(
      empid NUMBER,
      empname VARCHAR(10),
@@ -33,6 +33,7 @@ CREATE OR REPLACE PROCEDURE emp_data AS
    END LOOP;
    END;
   /
+```
   
 ### Output:
 ![dbms_exp4_1](https://github.com/Thirukaalathessvarar-S/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/121166390/8505a54f-4abb-40d3-8d66-fb9d06e10cde)
